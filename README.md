@@ -1,5 +1,8 @@
 # Ansible-and-Ansible-playbooks
 
+# Project Architecture
+<img width="1209" height="689" alt="image" src="https://github.com/user-attachments/assets/77bd28c0-29a5-4e1f-a949-3b97d4f0c14a" />
+
 
 ## Ansible Hands-on with Project
 
